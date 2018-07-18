@@ -190,7 +190,7 @@ ul li, ol li {
 }
 
 .btn {
-  font-size: 14px;
+  font-size: 16px;
   padding: 12px 20px;
   border-radius: 4px;
   cursor: pointer;
@@ -219,11 +219,12 @@ ul li, ol li {
   background-color: #0091CF;
   position: relative;
   z-index: 1;
+
 }
 
 .btn-common:hover {
   color: #fff;
-  background: #F50057;
+  background: #1A83FF;
   box-shadow: 0 6px 22px rgba(0, 0, 0, 0.1);
   transition: all .2s ease-in-out;
   -moz-transition: all .2s ease-in-out;

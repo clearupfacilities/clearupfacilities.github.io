@@ -1,3 +1,4 @@
+
 (function($) {
 
   "use strict";
@@ -57,7 +58,7 @@
             currentClass: 'active'
     });
 
-  
+
 
     /* Back Top Link active
     ========================================================*/
